@@ -1,0 +1,6 @@
+let day = new Date() 
+let hours = day.getHours() 
+let minutes = day.getMinutes() 
+let seconds= day.getSeconds() 
+let date = day.getDate() 
+console.log(hours, minutes, seconds, date)
